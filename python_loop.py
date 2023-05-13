@@ -6,5 +6,6 @@ def loop(num):
             num += 1
         print(num)
 
+
 num = 10
 loop(num)

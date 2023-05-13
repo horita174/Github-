@@ -1,4 +1,4 @@
-def a(num):
+def loop(num):
     while True:
         if num >= 15:
             return num
@@ -7,4 +7,4 @@ def a(num):
         print(num)
 
 num = 10
-print(a(num))
+print(loop(num))
